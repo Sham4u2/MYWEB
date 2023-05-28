@@ -1,0 +1,43 @@
+body {
+  /* max-height: 100vh; */
+  background-color: black !important;
+  /* background-image: url("bgg.jpg"); */
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+.custom-head {
+  margin-top: 10px;
+  /* background-color: bisque; */
+}
+
+.custom-link {
+  font-family: "Poppins", sans-serif;
+  color: white !important;
+  padding-left: 30px !important;
+  font-weight: 500 !important;
+}
+
+.nav-item.active .custom-link {
+  color: #00e8f8 !important;
+}
+
+.nav-item:hover .custom-link {
+  color: #00e8f8 !important;
+}
+
+.navbar-toggler .navbar-toggler-icon {
+  color: red !important; /* Change to your desired color */
+}
+
+.hero-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 800px;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
