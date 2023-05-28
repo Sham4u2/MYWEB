@@ -1,14 +1,11 @@
 body {
-  /* max-height: 100vh; */
   background-color: black !important;
-  /* background-image: url("bgg.jpg"); */
   background-repeat: no-repeat;
   background-size: 100%;
 }
 
 .custom-head {
   margin-top: 10px;
-  /* background-color: bisque; */
 }
 
 .custom-link {
@@ -27,7 +24,7 @@ body {
 }
 
 .navbar-toggler .navbar-toggler-icon {
-  color: red !important; /* Change to your desired color */
+  color: red !important;
 }
 
 .hero-img {
